@@ -1,0 +1,4 @@
+,Accuracy,F1-score,Inference Time,TOPSIS Score
+distilbert-base-uncased-finetuned-sst-2-english,0.8,0.8,0.07460885047912598,0.6671976813077641
+roberta-base,0.6,0.75,0.14429287910461425,0.6195235877849867
+bert-base-uncased,0.6,0.75,0.22064728736877443,0.5959862303976554
